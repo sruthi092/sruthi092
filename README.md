@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sruthi Chakravarthi
+- 👋 Hi, I’m Sruthi
 
-I am a graduate student :mortar_board: from Texas State University. Living in Texas :star:. Working as TA in Computer Science Department.
+I am a CS graduate :mortar_board: from Texas State University. Living in Texas :star:
 I believe that master’s in computer science helped me in abridging the gap between what I know and what I need to possess.
 
 
